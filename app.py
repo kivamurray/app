@@ -1,4 +1,7 @@
-Python 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:47:00) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+import streamlit as st
+st.title("My Streamlit App")
+
+
 Enter "help" below or click "Help" above for more information.
 import streamlit as st
 import streamlit.components.v1 as components
