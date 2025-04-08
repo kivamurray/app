@@ -1,9 +1,4 @@
 import streamlit as st
-st.title("My Streamlit App")
-
-
-Enter "help" below or click "Help" above for more information.
-import streamlit as st
 import streamlit.components.v1 as components
 
 # Set the page configuration
